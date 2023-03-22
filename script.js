@@ -1,4 +1,5 @@
 'use strict';
+
 //Define variables
 const name = $('.name');
 const height = $('.height');
