@@ -10,6 +10,7 @@ const died = $('.died');
 const displayResult = $('#display-result');
 const image = $('.display-image');
 const cards = $('.cards');
+
 //Create variable to hold json data
 let characters = [];
 let selectedCharacter = 0;
