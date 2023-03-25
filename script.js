@@ -15,7 +15,6 @@ const cards = $('.cards');
 let characters = [];
 let selectedCharacter = 0;
 
-
 //Get JSON data
 function loadData() {
     $.get('https://akabab.github.io/starwars-api/api/all.json', (data) => {
