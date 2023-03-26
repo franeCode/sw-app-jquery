@@ -85,7 +85,7 @@ $(document).ready(function () {
     } else {
       selectedCharacter = characters.length - 1;
     }
-    console.log(selectedCharacter);
+    // console.log(selectedCharacter);
     showCharacter(characters[selectedCharacter]);
   });
   loadData();
