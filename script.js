@@ -26,6 +26,7 @@ function loadData() {
         };
     });
 };
+
 //Get all characters data
 function showCharacter(data) {
     name.text(data['name']);
