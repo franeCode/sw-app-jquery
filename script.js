@@ -38,6 +38,7 @@ function showCharacter(data) {
     image.attr('src', data['image']);
 };
 
+
 function createCard(cardData) {
     let cardHtml = `<div class='card'>
             <img src='${cardData.image}' alt='characterImage'> 
