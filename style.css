@@ -8,7 +8,7 @@
     --border-radius: 0.4em;
     --border: 0.1rem solid #d6aa19;
     --color: #d6aa19;
-   }
+}
 body {
     background-image: linear-gradient(90deg, 
     rgba(0,0,0,0.3) 0%,  
