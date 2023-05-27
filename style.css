@@ -138,12 +138,12 @@ transform: scale(1.05);
 .hide {
 display: none;
 }
-  footer {
-      display: flex;
-      justify-content: center;
-      color: var(--color);
-      margin-top: 4rem;
-  }
+footer {
+    display: flex;
+    justify-content: center;
+    color: var(--color);
+    margin-top: 4rem;
+}
   @media (max-width: 50rem) {
       .display-result {
         justify-content: center;
