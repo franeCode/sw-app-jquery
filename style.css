@@ -82,6 +82,7 @@ button {
     display: inline-flex;
     gap: 0.5rem;
 }
+
 .close-result {
     font-size: 1rem;
     color: var(--color);
