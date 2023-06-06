@@ -35,7 +35,6 @@ button {
     color: var(--color);
     font-size: 1.3rem;
 }
-
 .container {
     width: 100%;
     min-height: 35rem;
