@@ -133,6 +133,7 @@ color: var(--color);
 border: var(--border);
 overflow: hidden;
 }
+
 .card img {
 max-height: 15rem;
 object-fit: cover;
