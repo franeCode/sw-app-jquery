@@ -140,6 +140,7 @@ object-fit: cover;
 aspect-ratio: 1 / 1;
 object-position: center top;
 }
+
 .card-text {
     flex-grow: 1;
     font-size: 1em;
