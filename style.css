@@ -154,6 +154,7 @@ box-shadow: 0 0 1rem 0 #d6aa19;
 cursor: pointer;
 transform: scale(1.05);
 }  
+
 .hide {
 display: none;
 }
