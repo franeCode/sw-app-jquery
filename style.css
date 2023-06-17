@@ -165,6 +165,7 @@ footer {
     color: var(--color);
     margin-top: 4rem;
 }
+
 @media (max-width: 50rem) {
     .display-result {
     justify-content: center;
