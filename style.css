@@ -100,13 +100,13 @@ button {
     border: var(--border);
     background-color: black;
 }
-  .cards {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
-      gap: 1em;
-      padding: 1em;
-      width: 100%;
-  }
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+    gap: 1em;
+    padding: 1em;
+    width: 100%;
+}
     .card {
     display: flex;
     flex-direction: column;
