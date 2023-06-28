@@ -150,9 +150,9 @@ footer {
     flex-direction: column;       
     width: 100%;
     }
-      .same-line {
-          display: none;
-      }
+    .same-line {
+        display: none;
+    }
       .img {
           align-self: center;
           padding: 0%;
