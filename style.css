@@ -135,10 +135,10 @@ overflow: hidden;
 }
 
 .card img {
-max-height: 15rem;
-object-fit: cover;
-aspect-ratio: 1 / 1;
-object-position: center top;
+    max-height: 15rem;
+    object-fit: cover;
+    aspect-ratio: 1 / 1;
+    object-position: center top;
 }
 
 .card-text {
