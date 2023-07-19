@@ -124,14 +124,14 @@ button {
 }
 
 .card {
-display: flex;
-flex-direction: column;
-box-shadow: 0 0 0 0 #d6aa19;
-transition: 0.3s;
-border-radius: 0.6rem; 
-color: var(--color);
-border: var(--border);
-overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0 0 0 #d6aa19;
+    transition: 0.3s;
+    border-radius: 0.6rem; 
+    color: var(--color);
+    border: var(--border);
+    overflow: hidden;
 }
 
 .card img {
